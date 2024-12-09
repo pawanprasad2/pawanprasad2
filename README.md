@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript,React.js,Node.js,MernStack**
+- 🌱 I’m currently learning **JavaScript, React.js, Node.js, MernStack**
 
 - 💬 Ask me about **FULL Stack Development**
 
