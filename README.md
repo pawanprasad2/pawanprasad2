@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **FULL Stack Development**
 
-- 📫 How to reach me **officialpawan223@gmail.com**
+- 📫 How to reach me **pawanprasad2322@gmail.com**
 
 - ⚡ Fun fact **🎉 Fun Fact: I'm a full-time student by day and a coding enthusiast by night. My journey is all about learning, growing, and turning caffeine into code. ☕📚💻**
 
