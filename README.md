@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan Prasad</h1>
-<h3 align="center">As an aspiring frontend developer, I'm passionate about creating user-friendly websites and eager to dive into the world of web development. My enthusiasm for coding, design, and technology drives me to learn and grow in this field.</h3>
+<h3 align="center">As an aspiring FullStack Developer, I'm passionate about creating user-friendly websites and eager to dive into the world of web development. My enthusiasm for coding, design, and technology drives me to learn and grow in this field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanprasad2&label=Profile%20views&color=0e75b6&style=flat" alt="pawanprasad2" /> </p>
 
